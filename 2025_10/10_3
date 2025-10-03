@@ -1,0 +1,22 @@
+## TIL（Today I Learned）リポジトリ
+Githubで毎日草を生やすには  
+何かしらのコードを書かかなければ行けないが  
+それが難しい場合に役立つリポジトリ  
+  
+使い方はその日に学んだこと、やったことを書くだけ  
+目的の毎日草を生やすことにつながる  
+  
+参考サイト：[Qiita](https://qiita.com/kumaryoya/items/4cb59023ee8896a328d2)
+
+## Githubプロフィールのcontributions
+Githubの草は、自分で確認した場合と他者から見た場合では異なる場合がある  
+理由は、Public・Privateリポジトリ  
+Privateでは他者から見て確認できないので草が少なく見える恐れがある  
+  
+対処法１：全てのリポジトリをPublicにする  
+対処法２：設定をする  
+  
+設定方法：  
+Githubプロフィールのcontributions→Private contributionsにチェックを入れる  
+  
+参考サイト：[Qiita](https://qiita.com/kumaryoya/items/4cb59023ee8896a328d2)
